@@ -73,13 +73,12 @@ Here are some of the projects I've worked on during my studies:
 
 ## 📚 Education
 
-- **Degree**: [e.g., B.Sc. in Informatics, Computer Science]
-- **University**: [Your University Name]
-- **Year of Study**: [e.g., 2nd Year]
+- **Degree**: Computer Science
+- **University**: Muhammadiyah University of Sidoarjo
+- **Year of Study**: 2nd Year
 - **Courses**: 
-  - [Relevant Course 1]
-  - [Relevant Course 2]
-  - [Relevant Course 3]
+  - Dicoding
+  - Codepolitan
 
 ---
 
@@ -87,10 +86,9 @@ Here are some of the projects I've worked on during my studies:
 
 I'm always open to new opportunities, collaborations, and learning experiences! Feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **Email**: [rahmahdiandian@gmail.com](mailto:your.email@example.com)
+- **LinkedIn**: www.linkedin.com/in/rizky-rahmahdian-sandy
 - **Website/Portfolio**: [Your Personal Website](https://www.yourwebsite.com)
-
 ---
 
 Thank you for visiting my GitHub profile! 😊
