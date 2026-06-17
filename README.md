@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Rizky Rahmahdian Sandy👋
 
-**Welcome to my GitHub portfolio!** I'm a current **Computer Science** student at **Muhammadiyah University of Sidoarjo** with a strong interest in **Software Development, Web Development, and Andorid Developer**. While still pursuing my studies, I've worked on various projects that showcase my skills and passion for technology. 
-
+**Welcome to my GitHub portfolio!** I recently graduated with a degree in  **Computer Science** from **Muhammadiyah University of Sidoarjo** with a strong interest in **Software Development, Web Development, and Andorid Developer**. I love turning ideas into reality through code
 Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work!
 
 ---
@@ -25,7 +24,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 ## 🛠 Skills & Technologies
 
 - **Languages**: JavaScript, Kotlin, PHP, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Bootstrap, Express
+- **Frameworks & Libraries**: React, Bootstrap, Express, Hono, Laravel, Codeigniter
 - **Databases**: MySQL, MongoDB
 - **Tools & Platforms**: Git, GitHub, Linux, VS Code
 - **Other Skills**: Cloud Computing, Problem Solving
